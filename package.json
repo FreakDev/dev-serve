@@ -1,0 +1,20 @@
+{
+  "name": "devServe",
+  "version": "1.0.0",
+  "description": "utility to watch change on a server source file (write in node) and relaunch it",
+  "main": "nodeDevServer.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreakDev/dev-server.git"
+  },
+  "author": "FreakDev",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/FreakDev/dev-serve.git"
+  },
+  "homepage": "https://github.com/FreakDev/dev-serve.git#readme",
+  "dependencies": {
+    "ps-tree": "~1.0.0",
+    "chokidar": "~1.0.5"
+  }
+}
